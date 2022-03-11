@@ -1,15 +1,18 @@
+/*
+Sidney Levine
+CSC 235
+HW 1
+CSS
+*/
 * {
   box-sizing: border-box;
 }
-
 .body {
   box-sizing: border-box;
   font-family: Comic Sans MS, Comic Sans, cursive;
   margin: 0;
   text-align: center;
 }
-
-
 .header {
   padding: 10px;
   text-align: center;
@@ -44,9 +47,6 @@
   border-color: black;
   
 }
-
-
-
 .navbar a.right {
   float: right;
 }
